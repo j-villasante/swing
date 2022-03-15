@@ -1,2 +1,9 @@
-plot/venv/
+/plot/venv
 /target
+**/*.rs.bk
+Cargo.lock
+bin/
+pkg/
+wasm-pack.log
+www/node_modules/
+www/dist/
